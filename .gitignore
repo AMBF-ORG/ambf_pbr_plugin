@@ -1,0 +1,6 @@
+*.~
+*.user
+~.old
+build/
+.idea/
+*.blend1
